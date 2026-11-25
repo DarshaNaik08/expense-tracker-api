@@ -2,7 +2,7 @@
 
 ASP.NET Core Web API backend for the Expense Tracker application—handling expense CRUD operations, transaction tracking, and category management.
 
-> **Frontend Client:** This API powers the Angular application at [DarshaNaik08/expense-tracker-ui](https://github.com/DarshaNaik08/expense-tracker-ui).
+> **Frontend Client:** This API powers the Angular application at [[DarshaNaik08/expense-tracker-ui](https://github.com/DarshaNaik08/expense-tracker-ui)](https://github.com/DarshaNaik08/expense-tracker-ui.git).
 
 ## Tech Stack
 - **.NET / ASP.NET Core Web API** (C#)
